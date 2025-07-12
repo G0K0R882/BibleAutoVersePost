@@ -1,0 +1,3 @@
+moviepy
+gtts
+instagrapi # Optional, for Instagram posting
